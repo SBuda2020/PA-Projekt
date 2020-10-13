@@ -7,5 +7,3 @@ główne założenia
 4.kreacja postaci(imię postaci + statystyki + drzewko rozwoju)    
 5.mapa + przedmioty + npc   
 6.podstawowa walka turowa   
-7.???     
-8.profit      
