@@ -6,6 +6,6 @@ główne założenia
 3.baza zdarzeń( jak się uda to zewnętrzna żeby odciążyć main)     
 4.kreacja postaci(imię postaci + statystyki + drzewko rozwoju)    
 5.mapa + przedmioty + npc   
-6.podstawowa walka turowa 
-7.??? 
-8.profit  
+6.podstawowa walka turowa   
+7.???     
+8.profit      
