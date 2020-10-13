@@ -1,5 +1,5 @@
-# PA-Projekt
-GRA RPG w konsoli tekstowej/ewentualnie graficzna 
+# PA-Projekt    
+GRA RPG w konsoli tekstowej/ewentualnie graficzna     
 główne założenia  
 1.generacja zdarzeń losowych  
 2.zapis/odczyt stanu gry    
